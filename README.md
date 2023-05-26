@@ -1,3 +1,3 @@
 
 - 🔭 I’m currently working on native plant databases!
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning python
